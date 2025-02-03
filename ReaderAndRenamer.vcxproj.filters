@@ -24,4 +24,32 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Vendor\DLLs\archive.dll" />
+    <None Include="Vendor\DLLs\bz2.dll" />
+    <None Include="Vendor\DLLs\charset-1.dll" />
+    <None Include="Vendor\DLLs\gif.dll" />
+    <None Include="Vendor\DLLs\iconv-2.dll" />
+    <None Include="Vendor\DLLs\jpeg62.dll" />
+    <None Include="Vendor\DLLs\legacy.dll" />
+    <None Include="Vendor\DLLs\leptonica-1.85.0.dll" />
+    <None Include="Vendor\DLLs\libcrypto-3-x64.dll" />
+    <None Include="Vendor\DLLs\libcurl.dll" />
+    <None Include="Vendor\DLLs\liblzma.dll" />
+    <None Include="Vendor\DLLs\libpng16.dll" />
+    <None Include="Vendor\DLLs\libsharpyuv.dll" />
+    <None Include="Vendor\DLLs\libssl-3-x64.dll" />
+    <None Include="Vendor\DLLs\libwebp.dll" />
+    <None Include="Vendor\DLLs\libwebpdecoder.dll" />
+    <None Include="Vendor\DLLs\libwebpdemux.dll" />
+    <None Include="Vendor\DLLs\libwebpmux.dll" />
+    <None Include="Vendor\DLLs\libxml2.dll" />
+    <None Include="Vendor\DLLs\lz4.dll" />
+    <None Include="Vendor\DLLs\openjp2.dll" />
+    <None Include="Vendor\DLLs\tesseract55.dll" />
+    <None Include="Vendor\DLLs\tiff.dll" />
+    <None Include="Vendor\DLLs\turbojpeg.dll" />
+    <None Include="Vendor\DLLs\zlib1.dll" />
+    <None Include="Vendor\DLLs\zstd.dll" />
+  </ItemGroup>
 </Project>
