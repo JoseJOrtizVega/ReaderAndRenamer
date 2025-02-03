@@ -1,5 +1,4 @@
-#include <iostream>
-#include <stdio.h>
+#include "Core/Core.h"
 
 int main()
 {
