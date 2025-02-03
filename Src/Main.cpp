@@ -5,9 +5,12 @@ int main()
 {
 	if (tesseract::TessBaseAPI* api = new tesseract::TessBaseAPI())
 	{
-		printf("HelloWorld");
+		printf("It worked fine and everything is beautiful");
 	}
-	printf("");
+	else
+	{
+		printf("Nope, fuck you");
+	}
 
 	return 0;
 }
